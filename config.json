@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdncrypt",
+        "uuid": 23106252,
+        "checksum": "vlf4xr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
